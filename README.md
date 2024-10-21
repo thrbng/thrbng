@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is TAHAR and I'm a student of Artificial Intelligence and its Applications, from USTO-MB university</p>
+<p align="left">My name is Tahar and I'm a student of Artificial Intelligence and its Applications, from USTO-MB university</p>
 
 ###
 
