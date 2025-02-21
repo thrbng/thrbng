@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Tahar and I'm a student of Artificial Intelligence and its Applications at USTO-MB university<br><br>✨ Creating bugs since 2021<br>📚 I'm currently learning Kotlin Multiplatform<br>🎯 Goals: be a CEO of my company<br>🎲 Fun fact: I hate toxic people</p>
+<p align="left">My name is Tahar and I'm a student of Artificial Intelligence and its Applications at USTO-MB university<br><br>✨ Creating bugs since 2021<br>📚 I'm currently learning Kotlin Multiplatform<br>🎯 Goals: be a CEO of my company 😁<br>🎲 Fun fact: I hate toxic people</p>
 
 ###
 
