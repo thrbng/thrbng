@@ -55,5 +55,5 @@
 ###
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65401546c5b7df990df819cd?variant=dark&roadmaps=android%2Csql%2Ccomputer-science%2Cfull-stack" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65401546c5b7df990df819cd?variant=dark&roadmaps=android%2Ccomputer-science%2Cfull-stack%2Csql" alt="roadmap.sh"/></a>
 </div>
