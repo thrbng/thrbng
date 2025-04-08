@@ -47,13 +47,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥RoadmapSh Stats :</h3>
-
-###
-
-<div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65401546c5b7df990df819cd?variant=dark&roadmaps=android%2Ccomputer-science%2Cfull-stack%2Csql" alt="roadmap.sh"/></a>
-</div>
