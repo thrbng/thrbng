@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">HI my name is Tahar, native android developer using Kotlin, I'm studying Artificial Intelligence and its Applications at USTO-MB<br><br>✨ Creating bugs since 2021, and a tech nerd since 2013<br>📚 I'm currently learning Jetpack Compose & Kotlin Multiplatform<br>🎯 Goals: be a CEO of my company 😁</p>
+<p align="left">HI my name is Tahar, native android developer using Kotlin, I'm studying Artificial Intelligence and its Applications at USTO-MB<br><br>✨ Creating bugs since 2021, and a tech nerd since 2013<br>📚 I'm currently learning Jetpack Compose & Compose Multiplatform<br>🎯 Goals: be a CEO of my company 😁</p>
 
 ###
 
